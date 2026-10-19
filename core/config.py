@@ -7,7 +7,7 @@ _CONFIGS: dict = {
         "tool": "sitechange",
         "name": "SiteChange",
         "subtitle": "Website Change Detector",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "One or more website URLs to snapshot or check for changes",
         "homepage": "https://github.com/MrHacker-X/sitechange",
         "author": "MrHacker-X",
